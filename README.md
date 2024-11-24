@@ -1,6 +1,4 @@
-Certainly! Below is a sample README file that you can use for your Python project, which helps users understand the purpose and usage of your script for finding missing files between two directories.
 
-```markdown
 # Find Missing Files Script
 
 ## Overview
@@ -36,7 +34,7 @@ This Python script allows you to find and list files that are present in a sourc
 3. **Run the script**:
 
    ```bash
-   python find_missing_files.py
+   python showMissingFiles.py
    ```
 
    - **Input Prompts**:
@@ -73,6 +71,9 @@ If all source files are present in the destination, the output will be:
 All files from the source folder are present in the destination folder.
 ```
 
+![Output](outputimage.png)
+
+
 ## Notes
 
 - Ensure that you have the necessary permissions to access the source and destination folders.
@@ -86,14 +87,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 If you have any questions or suggestions, feel free to reach out:
 
-- Your Name
-- Your Email
-- [Your GitHub Profile](https://github.com/yourusername)
-```
+- Mahesh Kumar J
+- jammumahi15@gmail.com
+- [Your GitHub Profile](https://github.com/maheshkumarj)
 
-### Customization
-
-- Replace `yourusername`, `Your Name`, and `Your Email` with your actual details.
-- Additionally, ensure that the repository URL in the cloning section points to your actual GitHub repository.
-
-This README serves as a comprehensive guide for users of your script, providing instructions on how to set it up and use it effectively. If you need additional sections or modifications, feel free to ask!
